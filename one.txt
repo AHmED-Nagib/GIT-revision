@@ -2,3 +2,4 @@ two
 adding new line using 2nd-branch
 adding 2nd line using 2nd-branch
 adding 3rd line using 2nd-branch
+now using notepad
