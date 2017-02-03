@@ -2,5 +2,7 @@ two
 adding new line using 2nd-branch
 adding 2nd line using 2nd-branch
 adding 3rd line using 2nd-branch
-
+now using notepad
+now using sublime
 using master pranch and puch then fetch
+use 2nd-branch then push it then fetch it
