@@ -4,3 +4,5 @@ adding 2nd line using 2nd-branch
 adding 3rd line using 2nd-branch
 now using notepad
 now using sublime
+
+use 2nd-branch then push it then fetch it
